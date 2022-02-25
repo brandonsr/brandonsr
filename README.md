@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Linux.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
